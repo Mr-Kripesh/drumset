@@ -1,0 +1,53 @@
+.img1{
+    position: absolute;
+    z-index: -1;
+    margin-left: 20%;
+    margin-top: -10px;
+    
+}
+h1 {
+    font-size: 5rem;
+    color: #33e7a2;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #0c0609;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: -15px;
+}
+.drum0{
+    outline: none;
+    border: 10px solid #8e3899;
+    font-size: 4rem;
+    font-family: 'Arvo', cursive;
+    line-height: 1;
+    font-weight: 800;
+    color: #85e42d;
+    text-shadow: 3px 2px #09050fa4;
+    border-radius: 50px;
+    display: flex;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(253, 253, 253);
+    z-index: 1;
+}
+.drum1{
+    outline: none;
+    border: 10px solid #8e3899;
+    font-size: 4rem;
+    font-family: 'Arvo', cursive;
+    line-height: 1;
+    font-weight: 800;
+    color: #85e42d;
+    text-shadow: 3px 2px #09050fa4;
+    border-radius: 50px;
+    display: flex;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(253, 253, 253);
+    margin-left: 90%;
+    margin-top: -210px;
+    z-index: 1;
+}
